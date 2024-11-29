@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+*.err
+ 
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+ 
+# Nodejs
+node_modules/
+
+# compiled target
+dist/
