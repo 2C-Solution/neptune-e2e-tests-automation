@@ -16,4 +16,4 @@ node_modules/
 # compiled target
 dist/
 
-./.idea
+/.idea
